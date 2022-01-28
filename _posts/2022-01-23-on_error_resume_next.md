@@ -2,7 +2,7 @@
 title: RxJava onErrorResumeNext
 date: 2022-01-23 19:00:00 +0900
 categories: [Android, RxJava]
-tags: [android, rxjava]
+tags: [android, rxjava, error]
 img_path: /img/3
 ---
 

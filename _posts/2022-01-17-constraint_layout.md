@@ -1,9 +1,9 @@
 ---
 title: 자주쓰는 ConstraintLayout 속성
 date: 2022-01-17 09:00:00 +0900
-categories: [Android, layout]
-tags: [android, constraintLayout, layout]
-img_path: /img
+categories: [Android, xml]
+tags: [android, constraintlayout, layout]
+img_path: /img/1
 ---
 
 # ConstraintLayout
